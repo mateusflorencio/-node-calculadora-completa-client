@@ -1,4 +1,4 @@
-let url = process.env.API_URL || 'http://localhost/api/calculator'
+let url = 'https://seashell-app-fkqmq.ondigitalocean.app/api/calculator'
 let equation = ''
 let user = ''
 
