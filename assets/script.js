@@ -1,4 +1,4 @@
-let url = 'http://localhost:5000/api/calculator'
+let url = 'http://134.209.215.49:3000/api/calculator'
 let equation = ''
 let user = ''
 
